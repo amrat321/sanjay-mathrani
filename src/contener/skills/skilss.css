@@ -1,0 +1,24 @@
+.skills{
+    /* display: flex */
+    /* background-color: aqua; */
+    /* margin: 1 1 1 1; */
+    /* margin: 0 auto; */
+    margin-left: 150px;
+}
+
+
+@media only screen and (max-width: 720px) {
+    .skills{
+        /* margin-left: 0px; */
+        margin-left:--0px;
+        /* background-color: red; */
+     
+    }}
+
+    @media only screen and (max-width: 603px) {
+        .skills{
+            /* margin-left: 0px; */
+            margin-left:30px;
+            /* background-color: red; */
+         
+        }}
